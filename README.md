@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://d9olupt5igjta.cloudfront.net/collections/images/2313/336be52482a7e0ddb9e033df8a1a5379c033833f/normal/descarga.gif?1640193682"  />
-</div>
-
-###
-
 <h3 align="center">My Skills 📚💻</h3>
 
 ###
@@ -47,12 +41,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/hoffm/hoffm/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="twitter.com/hoffmvnndev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
@@ -66,9 +54,25 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&custom_title=Estatísticas do GitHub de Hoffmann&username=hoffm" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=hoffm" height="150" alt="languages graph"  />
+  <img height="500" src="https://d9olupt5igjta.cloudfront.net/collections/images/2313/336be52482a7e0ddb9e033df8a1a5379c033833f/normal/descarga.gif?1640193682"  />
 </div>
 
 ###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=hug00xy&width={width})
+
+<h2 align="center">Follow me! ༼ つ ◕_◕ ༽つ</h2>
+
+###
+
+<div align="center">
+  <a href="twitter.com/hoffmvnndev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="52" height="40" alt="codesandbox logo"  />
+</div>
+
+###
