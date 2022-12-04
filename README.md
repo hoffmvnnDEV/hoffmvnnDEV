@@ -1,10 +1,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React, Node, MongoDB**
-
-- 👨‍💻 All of my projects are available at [//in construction](//in construction)
-
-- 📝 I regularly write articles on [//](//)
+- 🌱 I’m currently learning **React, NodeJS, MongoDB**
 
 - 📫 How to reach me **hoffmvnndev@gmail.com**
 
