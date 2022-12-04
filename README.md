@@ -71,3 +71,4 @@
 </div>
 
 ###
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=hug00xy&width={width})
